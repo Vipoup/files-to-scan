@@ -82,3 +82,5 @@ serverRequest("The glass is half ", getResults);
 // Response from the server: The glass is half full!
 
 
+var array = [1,2,3]
+
